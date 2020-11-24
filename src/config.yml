@@ -1,0 +1,6 @@
+# Time (in seconds) between sending messages.
+delay: 60
+
+# Adverts (get sent in order).
+adverts:
+- "&7[&cAutoMessages&7] &fConfigure this plugin at &bplugins/AutoMessages/config.yml&f!"
